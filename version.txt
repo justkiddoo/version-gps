@@ -1,2 +1,2 @@
 v1.0.137
-https://www.dropbox.com/scl/fi/csfyfcs2hlga44kjshkvd/ESP32-GPS-WIFI-AP-MICROSD.ino.bin?dl=1
+https://raw.githubusercontent.com/justkiddoo/bakultahu/refs/heads/main/dodoliwak.bin
